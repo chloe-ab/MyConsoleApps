@@ -1,0 +1,6 @@
+C:\Users\Chloe\source\repos\SimpleConsoleApp2\SimpleConsoleApp2\bin\Debug\SimpleConsoleApp2.exe.config
+C:\Users\Chloe\source\repos\SimpleConsoleApp2\SimpleConsoleApp2\bin\Debug\SimpleConsoleApp2.exe
+C:\Users\Chloe\source\repos\SimpleConsoleApp2\SimpleConsoleApp2\bin\Debug\SimpleConsoleApp2.pdb
+C:\Users\Chloe\source\repos\SimpleConsoleApp2\SimpleConsoleApp2\obj\Debug\SimpleConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Chloe\source\repos\SimpleConsoleApp2\SimpleConsoleApp2\obj\Debug\SimpleConsoleApp2.exe
+C:\Users\Chloe\source\repos\SimpleConsoleApp2\SimpleConsoleApp2\obj\Debug\SimpleConsoleApp2.pdb
