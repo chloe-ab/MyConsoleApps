@@ -1,0 +1,7 @@
+C:\Users\Chloe\source\repos\MoreMethodsConsoleApp\MoreMethodsConsoleApp\bin\Debug\MoreMethodsConsoleApp.exe.config
+C:\Users\Chloe\source\repos\MoreMethodsConsoleApp\MoreMethodsConsoleApp\bin\Debug\MoreMethodsConsoleApp.exe
+C:\Users\Chloe\source\repos\MoreMethodsConsoleApp\MoreMethodsConsoleApp\bin\Debug\MoreMethodsConsoleApp.pdb
+C:\Users\Chloe\source\repos\MoreMethodsConsoleApp\MoreMethodsConsoleApp\obj\Debug\BinaryConversionConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Chloe\source\repos\MoreMethodsConsoleApp\MoreMethodsConsoleApp\obj\Debug\BinaryConversionConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Chloe\source\repos\MoreMethodsConsoleApp\MoreMethodsConsoleApp\obj\Debug\MoreMethodsConsoleApp.exe
+C:\Users\Chloe\source\repos\MoreMethodsConsoleApp\MoreMethodsConsoleApp\obj\Debug\MoreMethodsConsoleApp.pdb
