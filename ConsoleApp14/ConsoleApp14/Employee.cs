@@ -17,9 +17,9 @@ namespace ConsoleApp14
             Console.ReadLine();
         }
 
-        public static bool operator ==(Employee employee, Employee employee2) //, bool areEqual)
+        public static bool operator ==(Employee employee, Employee employee2)
         {
-            if (employee.Id == employee2.Id) //(employees.First().Id == employees.ElementAt(1).Id)
+            if (employee.Id == employee2.Id)
             {
                 return true;
             }
